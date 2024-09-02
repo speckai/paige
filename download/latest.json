@@ -1,7 +1,11 @@
 {
   "version": "v0.0.1",
-  "pub_date": "2024-09-01T00:00:00Z",
   "notes": "Initial release",
-  "url": "https://github.com/speckai/paige-app/archive/refs/tags/v0.0.1.zip",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaTFCMGlGRWZRaG1RckZoeGxwaUc4bUJEUWlEYlNqMUk3WTllYUQvVTBZYTJhUWdRZ0ovdHhKcjFXdllPQmFaeGRkRHUrMXVLR0kyU1pkVGFjb0FYMHdsalJtQ243WXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MjI3Mzg4CWZpbGU6UGFpZ2UuYXBwLnRhci5negp5UjlBVVZZemgxa0ZnNGxwN1ZsbkZNVEdpT21UTDQrWkNoRkk1TkkzRUJMT1pLNUVWS0R5bGZ5cjRTd3ZHaHZleFhDMjdJa01zTjM5Y050WGNzenpBQT09Cg=="
+  "pub_date": "2024-09-01T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaTFCMGlGRWZRaHJydnJGc2ZiQWppOFJ1V0owMkxhVm5OKy9IZE5peGFnb2VJZStPSFl2VExCdllhVVNXYXY0cXZFKzZyZXEwSFFKQzBJa3NUUEVtYkNmUmp6N2lzZ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MjU4MjcyCWZpbGU6UGFpZ2UuYXBwLnRhci5negpmYzdRcHYzUDBDd3EwSWpIejVnSEdNRmQ3cE1YUThSMnMwQlJGZzh6MlZhNmkwZUdVU2k0djl0bkZIQ2M3Qkh3NDRKNUNrenUzbnpBRVZxRjJFdTVBdz09Cg==",
+      "url": "https://github.com/speckai/paige-app/releases/download/v0.0.1/Paige.app.tar.gz"
+    }
+  }
 }
